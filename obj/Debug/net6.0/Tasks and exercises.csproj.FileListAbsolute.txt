@@ -1,0 +1,15 @@
+C:\Users\marda\Desktop\Task and exercisdes\bin\Debug\net6.0\Tasks and exercises.exe
+C:\Users\marda\Desktop\Task and exercisdes\bin\Debug\net6.0\Tasks and exercises.deps.json
+C:\Users\marda\Desktop\Task and exercisdes\bin\Debug\net6.0\Tasks and exercises.runtimeconfig.json
+C:\Users\marda\Desktop\Task and exercisdes\bin\Debug\net6.0\Tasks and exercises.dll
+C:\Users\marda\Desktop\Task and exercisdes\bin\Debug\net6.0\Tasks and exercises.pdb
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.csproj.AssemblyReference.cache
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.AssemblyInfoInputs.cache
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.AssemblyInfo.cs
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.csproj.CoreCompileInputs.cache
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.dll
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\refint\Tasks and exercises.dll
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.pdb
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\Tasks and exercises.genruntimeconfig.cache
+C:\Users\marda\Desktop\Task and exercisdes\obj\Debug\net6.0\ref\Tasks and exercises.dll
